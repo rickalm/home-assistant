@@ -1,0 +1,4 @@
+Weather: !include weather.yaml
+SpeedTest: !include speedtest.yaml
+Rick: !include people_rick.yaml
+Billy: !include people_billy.yaml

@@ -1,0 +1,12 @@
+platform: template
+sensors:
+  inside_temp:
+    value_template: '
+      {% if states.thermostat.hallway %}
+        {{ states.thermostat.hallway.attributes.current_temperature | round(0) }}
+      {% else %}
+        ??
+      {% endif %}
+    '
+    friendly_name: 'House Temp'
+    unit_of_measurement: '°F'

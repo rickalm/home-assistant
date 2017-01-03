@@ -1,0 +1,12 @@
+platform: template
+sensors:
+  outside_temp:
+    value_template: '
+      {% if states.sensor.weather_apparent_temperature %}
+        {{ states.sensor.weather_apparent_temperature.state | int }}
+      {% else %}
+        ??
+      {% endif %}
+    '
+    friendly_name: 'Outside Temp'
+    unit_of_measurement: '°F'

@@ -1,0 +1,17 @@
+  - sensor.weather_apparent_temperature
+  - sensor.weather_cloud_coverage
+  - sensor.weather_dew_point
+  - sensor.weather_humidity
+  - sensor.weather_icon
+  - sensor.weather_nearest_storm_bearing
+  - sensor.weather_nearest_storm_distance
+  - sensor.weather_ozone
+  - sensor.weather_precip
+  - sensor.weather_precip_intensity
+  - sensor.weather_precip_probability
+  - sensor.weather_pressure
+  - sensor.weather_summary
+  - sensor.weather_temperature
+  - sensor.weather_visibility
+  - sensor.weather_wind_bearing
+  - sensor.weather_wind_speed

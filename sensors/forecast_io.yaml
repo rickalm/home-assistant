@@ -1,0 +1,20 @@
+platform: forecast
+api_key: 7be74eff02a6c5f82f46d5b202c8c9df
+monitored_conditions:
+  - summary
+  - icon
+  - nearest_storm_distance
+  - nearest_storm_bearing
+  - precip_type
+  - precip_intensity
+  - precip_probability
+  - temperature
+  - apparent_temperature
+  - dew_point
+  - wind_speed
+  - wind_bearing
+  - cloud_cover
+  - humidity
+  - pressure
+  - visibility
+  - ozone

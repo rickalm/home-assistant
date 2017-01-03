@@ -1,0 +1,8 @@
+protocol: 3.1
+broker: 127.0.0.1
+port: 1883
+client_id: home-assistant-1
+keepalive: 60
+#username: USERNAME
+#password: PASSWORD
+#certificate: /home/paulus/dev/addtrustexternalcaroot.crt

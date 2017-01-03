@@ -1,0 +1,64 @@
+homeassistant:
+  name: DaBears
+  latitude: 41.966387
+  longitude: -87.6615677
+  temperature_unit: F
+  time_zone: America/Chicago
+
+
+# Enable basic services
+#
+sun:
+logbook:
+history:
+frontend:
+updater:
+discovery:
+conversation:
+history:
+
+
+# Setup login for services
+#
+mqtt: !include general/local_mqtt.yaml
+
+nest: !include general/nest.yaml
+
+device_tracker: !include device_trackers/index.yaml
+
+group: !include groups/index.yaml
+
+### Notification ###
+#notify: !include notifies/index.yaml
+
+
+
+# Configure sensors and other monitoring devices
+#
+thermostat: !include thermostats/index.yaml
+
+sensor: !include sensors/index.yaml
+
+#media_player: !include devices/media_players.yaml
+
+#camera: !include devices/cameras.yaml
+
+#switch: !include devices/switches.yaml
+
+#light: !include devices/light.yaml
+
+
+
+###  Logger  ###
+#logger: !include logger.yaml
+
+###  Scenes  ###
+#scene: !include scenes.yaml
+
+### Scripts ###
+#script: !include scripts.yaml
+
+### Automation ###
+#automation: !include automation.yaml
+
+

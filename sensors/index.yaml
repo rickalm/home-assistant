@@ -1,0 +1,6 @@
+- !include outside_temp.yaml
+- !include inside_temp.yaml
+- !include rick_template.yaml
+- !include yr.yaml
+- !include speedtest.yaml
+- !include forecast_io.yaml

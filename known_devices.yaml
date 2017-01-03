@@ -1,0 +1,132 @@
+1921681103:
+  name: 192.168.1.103
+  mac: 18:B4:30:03:C4:25
+  picture: 
+  track: no
+  hide_if_away: no
+
+rick_phone:
+  name: Rick Phone
+  mac: 90:18:7C:CD:9B:B8
+  picture: 
+  track: yes
+  hide_if_away: no
+
+1921681101:
+  name: 192.168.1.101
+  mac: C4:27:95:C6:C9:E6
+  picture: 
+  track: no
+  hide_if_away: no
+
+1921681106:
+  name: 192.168.1.106
+  mac: 4C:BB:58:36:F1:C4
+  picture: 
+  track: no
+  hide_if_away: no
+
+1921681110:
+  name: 192.168.1.110
+  mac: 9C:AD:EF:FF:19:CA
+  picture: 
+  track: no
+  hide_if_away: no
+
+1921681109:
+  name: 192.168.1.109
+  mac: E4:58:E7:6B:D8:57
+  picture: 
+  track: no
+  hide_if_away: no
+
+1921681117:
+  name: 192.168.1.117
+  mac: 40:FC:89:7F:7C:5E
+  picture: 
+  track: no
+  hide_if_away: no
+
+1921681107:
+  name: 192.168.1.107
+  mac: 60:5B:B4:30:2C:1F
+  picture: 
+  track: no
+  hide_if_away: no
+
+1921681104:
+  name: 192.168.1.104
+  mac: 02:0F:B5:AB:77:98
+  picture: 
+  track: no
+  hide_if_away: no
+
+1921681100:
+  name: 192.168.1.100
+  mac: AC:18:26:52:6B:4F
+  picture: 
+  track: no
+  hide_if_away: no
+
+1921681111:
+  name: 192.168.1.111
+  mac: A8:9F:BA:25:33:33
+  picture: 
+  track: no
+  hide_if_away: no
+
+1921681102:
+  name: 192.168.1.102
+  mac: F4:1B:A1:6F:8D:9F
+  picture: 
+  track: no
+  hide_if_away: no
+
+1921681112:
+  name: 192.168.1.112
+  mac: 00:1C:B3:75:1D:B3
+  picture: 
+  track: no
+  hide_if_away: no
+
+1921681113:
+  name: 192.168.1.113
+  mac: F0:B4:79:F7:99:96
+  picture: 
+  track: no
+  hide_if_away: no
+
+1921681118:
+  name: 192.168.1.118
+  mac: 02:0F:B5:25:33:33
+  picture: 
+  track: no
+  hide_if_away: no
+
+1921681108:
+  name: 192.168.1.108
+  mac: 02:0F:B5:CD:9B:B8
+  picture: 
+  track: no
+  hide_if_away: no
+
+1921681120:
+  name: 192.168.1.120
+  mac: 00:17:13:1B:9B:F5
+  picture: 
+  track: no
+  hide_if_away: no
+
+1921681122:
+  name: 192.168.1.122
+  mac: 00:0B:82:2F:4D:93
+  picture: 
+  track: no
+  hide_if_away: no
+
+1921681124:
+  name: 192.168.1.124
+  mac: 00:1B:63:9C:47:E2
+  picture: 
+  track: no
+  hide_if_away: no
